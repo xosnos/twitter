@@ -21,4 +21,4 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-<img src=./walkthrough.gif title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=./walkthrough.gif title='Video Walkthrough' width='250' alt='Video Walkthrough' />
